@@ -1,143 +1,143 @@
-# 👋 Olá, eu sou a Joana Dias!
+# 👋 Hi, I'm Joana Dias!
 
-**Private Art Collection Manager** em transição para **Desenvolvimento de Software com IA** | Apaixonada por tecnologia, arte e organização de dados
+**Private Art Collection Manager** transitioning to **AI-Powered Software Development** | Passionate about technology, art, and data organization
 
-📍 **Berlim, Alemanha (desde 2008)** | 🇧🇷 Conexões em **São Paulo e Rio de Janeiro** | ✈️ Aberta a realocação
+📍 **Berlin, Germany (since 2008)** | 🇧🇷 From **Rio de Janeiro, Brazil** | ✈️ Open to relocation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joana-dias-57134425/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joanadias)
 
 ---
 
-## 🧠 **Sobre mim**
+## 🧠 **About Me**
 
-Com mais de **5 anos de experiência em gestão de coleções de arte privadas** e uma carreira multidisciplinar de **mais de 15 anos** nos setores cultural e operacional, estou em transição para a área de tecnologia, unindo minha paixão por **organização, atenção aos detalhes e criatividade** com habilidades modernas em desenvolvimento de software e inteligência artificial.
+With over **5 years of experience in private art collection management** and a **15+ year multidisciplinary career** across cultural and operational sectors, I am transitioning into technology, combining my passion for **organization, attention to detail, and creativity** with modern skills in software development and artificial intelligence.
 
-Vivo em **Berlim desde 2008**, o que me proporciona **18 anos de experiência intercultural** e profundo conhecimento do mercado europeu. Atualmente, estou cursando o bootcamp **AI Software Development da Le Wagon** (turma Brasil), onde estou desenvolvendo meu primeiro grande projeto: o **"Escolhe Ai"** , uma plataforma de recomendação de filmes com IA focada no mercado brasileiro . Minhas conexões com **São Paulo e Rio de Janeiro** me permitem atuar em múltiplos mercados, com disponibilidade para realocação conforme a oportunidade.
+I have lived in **Berlin since 2008**, giving me **18 years of intercultural experience** and deep knowledge of the European market. I am currently completing the **AI Software Development Bootcamp at Le Wagon** (Brazil cohort), where I am developing my first major project: **"Escolhe Ai"** , an AI-powered movie recommendation platform focused on the Brazilian market . My connections in **São Paulo and Rio de Janeiro** allow me to operate across multiple markets, and I am open to relocation as opportunities arise.
 
-Minha trajetória única combina:
-- 🎨 **Precisão arquivística** – da gestão de acervos de arte
-- 💻 **Base técnica em construção** – Ruby on Rails, SQL, JavaScript, Git
-- 🤖 **Introdução à IA** – LLMs, OpenAI APIs, RAG Systems 
-- 🌍 **Experiência internacional consolidada** – 18 anos na Alemanha
-- 🗣️ **Idiomas** – Português nativo, inglês fluente, alemão intermediário (B1)
+My unique journey combines:
+- 🎨 **Archival precision** – from art collection management
+- 💻 **Technical foundation in progress** – Ruby on Rails, SQL, JavaScript, Git
+- 🤖 **Introduction to AI** – LLMs, OpenAI APIs, RAG Systems
+- 🌍 **Consolidated international experience** – 18 years in Germany
+- 🗣️ **Languages** – Native Portuguese, fluent English, intermediate German (B1)
 
 ---
 
-## 🛠️ **Habilidades Técnicas**
+## 🛠️ **Technical Skills**
 
-### **Desenvolvimento Full-Stack (em aprendizado – Le Wagon Brasil)**
-| Categoria | Tecnologias |
+### **Full-Stack Development (in progress – Le Wagon Brazil)**
+| Category | Technologies |
 |-----------|-------------|
-| **Back-end** | Ruby on Rails, SQL, APIs REST |
+| **Back-end** | Ruby on Rails, SQL, REST APIs |
 | **Front-end** | JavaScript, HTML, CSS, Bootstrap |
-| **Versionamento** | Git, GitHub |
-| **Deploy** | Heroku |
+| **Version Control** | Git, GitHub |
+| **Deployment** | Heroku |
 
-### **Inteligência Artificial (em aprendizado)**
-| Categoria | Tecnologias |
+### **Artificial Intelligence (in progress)**
+| Category | Technologies |
 |-----------|-------------|
-| **LLMs** | Integração com APIs da OpenAI  |
+| **LLMs** | OpenAI API Integration |
 | **RAG Systems** | Retrieval-Augmented Generation |
 | **AI-Assisted Coding** | Claude Code, prompt engineering |
 
-### **Salesforce (em aprendizado)**
-- **Trailhead:** Administrador Iniciante (em andamento – plataforma em português)
-- **Áreas de interesse:** Admin, Developer, Agentforce (IA)
+### **Salesforce (in progress)**
+- **Trailhead:** Beginner Admin (ongoing – platform in Portuguese)
+- **Areas of interest:** Admin, Developer, Agentforce (AI)
 
-### **Gestão de Acervos**
-- Preservação de arquivos
-- Records Management
-- Condition Reports
-- Curadoria digital
-- Catalogação e inventário
+### **Collection Management**
+- Archival preservation
+- Records management
+- Condition reports
+- Digital curation
+- Cataloging and inventory
 
 ---
 
-## 💼 **Experiência Profissional**
+## 💼 **Professional Experience**
 
-### **Private Art Collection Manager** | Autônoma
-*Agosto 2020 – Presente (5+ anos)* | Berlim, Alemanha
+### **Private Art Collection Manager** | Self-employed
+*August 2020 – Present (5+ years)* | Berlin, Germany
 
-- Desenvolvimento de **sistemas de arquivo personalizados** para colecionadores privados
-- Realização de **condition reports detalhados** e documentação meticulosa de obras
-- Gestão de **inventários complexos** com precisão e organização
-- Catalogação de acervos e manutenção de bancos de dados
+- Developed **customized archival systems** for private collectors
+- Conducted **detailed condition reports** and meticulous artwork documentation
+- Managed **complex inventories** with precision and organization
+- Cataloged collections and maintained databases
 
 ### **Art Handler** | Archivio Conz
-*Julho 2019 – Junho 2020* | Berlim, Alemanha
+*July 2019 – June 2020* | Berlin, Germany
 
-- Manuseio e documentação de obras do movimento Fluxus em um dos arquivos mais significativos do mundo
-- Gestão de inventário e condition reports para a coleção
-- Colaboração com pesquisadores e propriedades intelectuais de artistas
+- Handled and documented works by seminal Fluxus artists at one of the world's most significant Fluxus archives
+- Managed inventory and condition reports for the collection
+- Collaborated with researchers and artists' estates
 
 ### **Head of Bar Operations** | WHOLE | United Queer Festival
-*Março 2023 – Agosto 2023* | Berlim, Alemanha
+*March 2023 – August 2023* | Berlin, Germany
 
-- Liderança de equipe com mais de 15 funcionários
-- Gestão de estoque para mais de 10.000 participantes
-- Coordenação logística e resolução de problemas sob pressão
+- Led a team of 15+ staff members
+- Managed inventory for 10,000+ attendees
+- Coordinated logistics and problem-solving under pressure
 
 ### **Artist Assistant** | Freelancer
-*Maio 2022 – Julho 2022* | Berlim, Alemanha
+*May 2022 – July 2022* | Berlin, Germany
 
-- Suporte a artista residente em Berlim
-- Organização de materiais e documentação de processos criativos
+- Supported a Berlin-based artist
+- Organized materials and documented creative processes
 
 ### **Bartender** | Ora Restaurant
-*Agosto 2018 – Junho 2019* | Berlim, Alemanha
+*August 2018 – June 2019* | Berlin, Germany
 
-- Atendimento ao cliente em ambiente de alto volume
-- Gestão de tempo e multitarefas
+- Customer service in a high-volume environment
+- Time management and multitasking
 
 ---
 
-## 🎓 **Formação e Certificações**
+## 🎓 **Education & Certifications**
 
-| Curso/Formação | Instituição | Período |
+| Course/Program | Institution | Period |
 |----------------|-------------|---------|
-| **AI Software Development Bootcamp** | Le Wagon (Brasil) | 2025–2026 (em andamento) |
+| **AI Software Development Bootcamp** | Le Wagon (Brazil) | 2025–2026 (in progress) |
 | **Rethinking Art Collections and Archives** | Node Center | 2024 |
 | **Managing Art Collections Workshop** | Node Center | 2023 |
 | **Learn How to Use ChatGPT Course** | Codecademy | 2023 |
 | **Art Handling, Transport and Storage** | Node Center | 2021 |
 | **Documenting, Archiving and Preserving Ephemeral Art** | Node Center | 2021 |
-| **Geografía Sensible (Residência Artística)** | El Observatorio, Barcelona | 2017 |
-| **Certificado Profissional em Fotografia** | Neue Schule für Fotografie Berlin | 2009–2015 |
-| **Bacharelado em Cinema/Video** | Universidade Gama Filho (Brasil) | 2005–2008 |
+| **Geografía Sensible (Artist Residency)** | El Observatorio, Barcelona | 2017 |
+| **Professional Certificate in Photography** | Neue Schule für Fotografie Berlin | 2009–2015 |
+| **Bachelor's in Film/Cinema/Video Studies** | Universidade Gama Filho (Brazil) | 2005–2008 |
 
 ---
 
-## 🚀 **Projeto em Destaque: Escolhe Ai**
+## 🚀 **Featured Project: Escolhe Ai**
 
-### **Sobre o projeto**
-O **Escolhe Ai** é uma plataforma de recomendação de filmes com inteligência artificial, desenvolvida durante meu bootcamp na Le Wagon. O produto é focado no mercado brasileiro e resolve um problema comum: a dificuldade de escolher o que assistir em meio a tantas opções nos serviços de streaming .
+### **About the Project**
+**"Escolhe Ai"** (Portuguese for "Choose There") is an AI-powered movie recommendation platform developed during my Le Wagon bootcamp. The product is focused on the Brazilian market and solves a common problem: the difficulty of choosing what to watch among so many streaming options .
 
-### **Como funciona**
-1. O usuário informa **3 filmes que gosta** (como referência de gosto pessoal)
-2. A IA analisa as características desses filmes (gênero, tom, estilo, temas) 
-3. A plataforma retorna **3 recomendações personalizadas** de filmes para assistir agora
-4. Para cada recomendação, o usuário descobre **onde assistir** no Brasil (Netflix, Prime Video, HBO Max, Globoplay, etc.) 
+### **How It Works**
+1. User inputs **3 movies they like** (as a reference of personal taste)
+2. AI analyzes the characteristics of these films (genre, tone, style, themes) 
+3. The platform returns **3 personalized movie recommendations** to watch now
+4. For each recommendation, the user discovers **where to watch** in Brazil (Netflix, Prime Video, HBO Max, Globoplay, etc.) 
 
-### **Tecnologias utilizadas**
+### **Technologies Used**
 - **Back-end:** Ruby on Rails, SQL
 - **Front-end:** JavaScript, HTML, CSS, Bootstrap
-- **IA:** Integração com APIs da OpenAI para processamento de linguagem natural 
-- **Deploy:** Heroku
+- **AI:** OpenAI API integration for natural language processing 
+- **Deployment:** Heroku
 
-### **Próximos passos**
-- Implementar sistema de feedback do usuário para melhorar recomendações
-- Adicionar filtros por humor, ano, diretor e atores favoritos 
-- Criar watchlist personalizada para salvar recomendações 
+### **Next Steps**
+- Implement user feedback system to improve recommendations
+- Add filters by mood, year, director, and favorite actors 
+- Create personalized watchlist to save recommendations 
 
 ```
 📺 Escolhe Ai
-├── Entrada: 3 filmes que você ama
-├── Processamento: IA analisa seu gosto
-└── Saída: 3 filmes perfeitos + onde assistir
+├── Input: 3 movies you love
+├── Processing: AI analyzes your taste
+└── Output: 3 perfect movies + where to watch
 ```
 
-**[Repositório do projeto (em breve!)]** 🔜
+**[Project repository (coming soon!)]** 🔜
 
 ---
 
@@ -149,55 +149,56 @@ O **Escolhe Ai** é uma plataforma de recomendação de filmes com inteligência
 
 ---
 
-## 🌱 **Atualmente aprendendo**
+## 🌱 **Currently Learning**
 
-- ✅ **Le Wagon Bootcamp (Brasil)** – AI Software Development (Ruby on Rails, SQL, JavaScript, IA)
-- ✅ **Salesforce Trailhead** – Administrador Iniciante (em português)
-- ✅ Desenvolvimento do projeto **"Escolhe Ai"** – recomendação de filmes com IA
-
----
-
-## 🌍 **Disponibilidade geográfica**
-
-- 📍 **Base atual:** Berlim, Alemanha **(desde 2008 – 18 anos de experiência intercultural)**
-- 🇧🇷 **Conexões:** São Paulo e Rio de Janeiro
-- ✈️ **Disponível para realocação** – nacional ou internacional, conforme a oportunidade
+- ✅ **Le Wagon Bootcamp (Brazil)** – AI Software Development (Ruby on Rails, SQL, JavaScript, AI)
+- ✅ **Salesforce Trailhead** – Beginner Admin (in Portuguese)
+- ✅ Developing the **"Escolhe Ai"** project – AI movie recommendation platform
 
 ---
 
-## 💬 **Idiomas**
+## 🌍 **Geographic Availability**
 
-- 🇧🇷 **Português:** Nativo
-- 🇬🇧 **Inglês:** Fluente
-- 🇩🇪 **Alemão:** Intermediário (B1) – vivência de 18 anos no país
+- 📍 **Current base:** Berlin, Germany **(since 2008 – 18 years of intercultural experience)**
+- 🇧🇷 **From:** Rio de Janeiro, Brazil
+- 🇧🇷 **Connections:** São Paulo and Rio de Janeiro
+- ✈️ **Open to relocation** – nationally or internationally, as opportunities arise
 
 ---
 
-## 📫 **Como me encontrar**
+## 💬 **Languages**
+
+- 🇧🇷 **Portuguese:** Native
+- 🇬🇧 **English:** Fluent
+- 🇩🇪 **German:** Intermediate (B1) – 18 years of living in the country
+
+---
+
+## 📫 **How to Find Me**
 
 - **LinkedIn:** [linkedin.com/in/joana-dias-57134425](https://www.linkedin.com/in/joana-dias-57134425/)
-- **E-mail:** joana.jou@gmail.com
-- **Localização:** Berlim, Alemanha (aberta a realocação)
+- **Email:** joana.jou@gmail.com
+- **Location:** Berlin, Germany (open to relocation)
 
 ---
 
-## ⚡ **Curiosidades sobre mim**
+## ⚡ **Fun Facts About Me**
 
-- 📸 Tenho formação em **fotografia fine art** pela Neue Schule für Fotografie Berlin
-- 🎥 Sou bacharel em **Cinema** – contar histórias é minha paixão! O projeto **Escolhe Ai** une minha formação em cinema com tecnologia 
-- 🎨 Participei de uma **residência artística** em Barcelona explorando a relação entre arte e território
-- 🌍 Vivo na **Alemanha desde 2008** – 18 anos de experiência em ambientes multiculturais
-- 🇩🇪 Conhecimento profundo do mercado europeu e da cultura alemã
-- 🧘‍♀️ Acredito que **atenção aos detalhes** e **criatividade** podem transformar qualquer área
-
----
-
-**✨ "Combinando a precisão da gestão de acervos com a inovação da tecnologia para criar soluções inteligentes."** ✨
+- 📸 I hold a **Fine Art Photography certificate** from Neue Schule für Fotografie Berlin
+- 🎥 I have a Bachelor's in **Film Studies** – storytelling is my passion! The **Escolhe Ai** project combines my film background with technology 
+- 🎨 I participated in an **artist residency** in Barcelona exploring the relationship between art and territory
+- 🌍 I've lived in **Germany since 2008** – 18 years of experience in multicultural environments
+- 🇩🇪 Deep knowledge of the European market and German culture
+- 🧘‍♀️ I believe that **attention to detail** and **creativity** can transform any field
 
 ---
 
-*Última atualização: Março de 2026*
+**✨ "Combining the precision of collection management with the innovation of technology to create intelligent solutions."** ✨
 
 ---
 
-**Agora sim!** 18 anos em Berlim é um diferencial enorme – mostra resiliência, adaptação cultural e conhecimento profundo do mercado europeu. Isso vai impressionar recrutadores tanto na Alemanha quanto no Brasil!
+*Last updated: March 2026*
+
+---
+
+Perfect! Now your README is professional, bilingual-ready, and highlights your unique background: **18 years in Berlin + from Rio de Janeiro + Le Wagon Brazil + Escolhe Ai project**. This tells a compelling story to recruiters in both Europe and Brazil!

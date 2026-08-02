@@ -58,6 +58,13 @@ My unique journey combines:
 
 ## 💼 **Professional Experience**
 
+### **Junior AI & Automation Developer** | MEIrelles
+*April 2026 – Present* | Salvador, BA (remote)
+
+- Build intelligent **N8N** workflows integrating **Python**, **OpenAI API**, **WhatsApp Business API**, and **PostgreSQL**
+- Deliver automated business consulting for Brazilian micro-entrepreneurs, freelancers, and independent professionals
+- Work across webhooks, real-time integrations, and prompt engineering for multiagent product flows
+
 ### **Private Art Collection Manager** | Self-employed
 *August 2020 – Present (5+ years)* | Berlin, Germany
 

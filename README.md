@@ -47,10 +47,6 @@ My unique journey combines:
 | **RAG Systems** | Retrieval-Augmented Generation |
 | **AI-Assisted Coding** | Claude Code, Cursor |
 
-### **Salesforce (in progress)**
-- **Trailhead:** Beginner Admin (ongoing – platform in Portuguese)
-- **Areas of interest:** Admin, Developer, Agentforce (AI)
-
 ### **Collection Management**
 - Archival preservation
 - Records management
@@ -153,7 +149,6 @@ AI-powered movie and series recommendation platform for the Brazilian streaming 
 - 🟢 Building **MEIrelles AI** — social-impact product for Brazil
 - 📚 **Sotheby’s Collections** course — deepening collections practice
 - 🎯 Path ahead: tools for **archiving and cataloguing collections**
-- ☁️ **Salesforce Trailhead** — Beginner Admin (in Portuguese)
 
 ---
 

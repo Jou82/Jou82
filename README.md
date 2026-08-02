@@ -1,32 +1,37 @@
 # 👋 Hi, I'm Joana Dias!
 
-**Private Art Collection Manager** transitioning to **AI-Powered Software Development** | Passionate about technology, art, and data organization
+**Arts × AI** — building **MEIrelles AI** for social impact now, with a path toward tools for **archiving and cataloguing collections**.
 
 📍 **Berlin, Germany (since 2008)** | 🇧🇷 From **Rio de Janeiro, Brazil** | ✈️ Open to relocation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joana-dias-57134425/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jou82)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jou82)
+[![Website](https://img.shields.io/badge/Website-141816?style=for-the-badge&logo=safari&logoColor=white)](https://jou82.github.io/profile/)
 
 ---
 
 ## 🧠 **About Me**
 
-With over **5 years of experience in private art collection management** and a **15+ year multidisciplinary career** across cultural and operational sectors, I am transitioning into technology, combining my passion for **organization, attention to detail, and creativity** with modern skills in software development and artificial intelligence.
+With over **5 years of experience in private art collection management** and a **15+ year multidisciplinary career** across cultural and operational sectors, I work at the intersection of **arts, technology, and AI**.
 
-I have lived in **Berlin since 2008**, giving me **18 years of intercultural experience** and deep knowledge of the European market. I am currently completing the **AI Software Development Bootcamp at Le Wagon** (Brazil cohort), where I am developing my first major project: **"Escolhe Ai"** , an AI-powered movie recommendation platform focused on the Brazilian market . My connections in **São Paulo and Rio de Janeiro** allow me to operate across multiple markets, and I am open to relocation as opportunities arise.
+Right now I work on **MEIrelles AI**, a product that helps Brazilian **micro-entrepreneurs, freelancers, and independent professionals** run their work with more clarity and performance. Looking ahead, I want to build tools for **archiving and cataloguing collections** — systems that hold memory carefully and make it usable.
+
+I completed the **AI Software Development Bootcamp at Le Wagon** (Brazil) and **Art Business Essentials at Sotheby’s Institute of Art**. I’m currently taking Sotheby’s **Collections** course.
+
+I have lived in **Berlin since 2008** (18 years of intercultural experience). My connections in **São Paulo and Rio de Janeiro** allow me to operate across markets, and I am open to relocation.
 
 My unique journey combines:
 - 🎨 **Archival precision** – from art collection management
-- 💻 **Technical foundation in progress** – Ruby on Rails, SQL, JavaScript, Git
-- 🤖 **Introduction to AI** – LLMs, OpenAI APIs, RAG Systems
-- 🌍 **Consolidated international experience** – 18 years in Germany
+- 💻 **Software foundation** – Ruby on Rails, SQL, JavaScript, Git
+- 🤖 **AI in practice** – LLMs, OpenAI APIs, multiagent systems, RAG
+- 🌍 **International experience** – 18 years in Germany
 - 🗣️ **Languages** – Native Portuguese, fluent English, intermediate German (B1)
 
 ---
 
 ## 🛠️ **Technical Skills**
 
-### **Full-Stack Development (in progress – Le Wagon Brazil)**
+### **Full-Stack Development (Le Wagon Brazil — completed)**
 | Category | Technologies |
 |-----------|-------------|
 | **Back-end** | Ruby on Rails, SQL, REST APIs |
@@ -34,12 +39,13 @@ My unique journey combines:
 | **Version Control** | Git, GitHub |
 | **Deployment** | Heroku |
 
-### **Artificial Intelligence (in progress)**
+### **Artificial Intelligence**
 | Category | Technologies |
 |-----------|-------------|
 | **LLMs** | OpenAI API Integration |
+| **Agents** | Multiagent workflows (N8N), prompt engineering |
 | **RAG Systems** | Retrieval-Augmented Generation |
-| **AI-Assisted Coding** | Claude Code, prompt engineering |
+| **AI-Assisted Coding** | Claude Code, Cursor |
 
 ### **Salesforce (in progress)**
 - **Trailhead:** Beginner Admin (ongoing – platform in Portuguese)
@@ -96,7 +102,9 @@ My unique journey combines:
 
 | Course/Program | Institution | Period |
 |----------------|-------------|---------|
-| **AI Software Development Bootcamp** | Le Wagon (Brazil) | 2025–2026 (in progress) |
+| **Collections** | Sotheby’s Institute of Art | 2026 (in progress) |
+| **Art Business Essentials** | Sotheby’s Institute of Art | Completed |
+| **AI Software Development Bootcamp** | Le Wagon (Brazil) | 2025–2026 (completed) |
 | **Rethinking Art Collections and Archives** | Node Center | 2024 |
 | **Managing Art Collections Workshop** | Node Center | 2023 |
 | **Learn How to Use ChatGPT Course** | Codecademy | 2023 |
@@ -108,52 +116,44 @@ My unique journey combines:
 
 ---
 
-## 🚀 **Featured Project: Escolhe Ai**
+## 🚀 **Featured Projects**
 
-### **About the Project**
-**"Escolhe Ai"** (Portuguese for "Choose There") is an AI-powered movie recommendation platform developed during my Le Wagon bootcamp. The product is focused on the Brazilian market and solves a common problem: the difficulty of choosing what to watch among so many streaming options .
+### **MEIrelles AI**
+Social-impact multiagent WhatsApp chatbot helping Brazilian micro-entrepreneurs, freelancers, and independent professionals run their work with more clarity and performance.
 
-### **How It Works**
-1. User inputs **3 movies they like** (as a reference of personal taste)
-2. AI analyzes the characteristics of these films (genre, tone, style, themes) 
-3. The platform returns **3 personalized movie recommendations** to watch now
-4. For each recommendation, the user discovers **where to watch** in Brazil (Netflix, Prime Video, HBO Max, Globoplay, etc.) 
+- **[meirelles-dev](https://github.com/Hfreitas/meirelles-dev)** — agent workflows & product development
+- **[data-svc](https://github.com/Hfreitas/data-svc)** — data service
 
-### **Technologies Used**
-- **Back-end:** Ruby on Rails, SQL
-- **Front-end:** JavaScript, HTML, CSS, Bootstrap
-- **AI:** OpenAI API integration for natural language processing 
-- **Deployment:** Heroku
+### **Escolhe Aí**
+AI-powered movie and series recommendation platform for the Brazilian streaming market. Tell it 3 productions you love — it returns 3 tailored recommendations, with trailers, cast info, and where to watch in Brazil.
 
-### **Next Steps**
-- Implement user feedback system to improve recommendations
-- Add filters by mood, year, director, and favorite actors 
-- Create personalized watchlist to save recommendations 
+**Live:** [www.escolheai.net](https://www.escolheai.net) · **Repo:** [Jou82/escolhe-ai](https://github.com/Jou82/escolhe-ai)
 
 ```
-📺 Escolhe Ai
-├── Input: 3 movies you love
+📺 Escolhe Aí
+├── Input: 3 productions you love
 ├── Processing: AI analyzes your taste
-└── Output: 3 perfect movies + where to watch
+└── Output: 3 recommendations + where to watch
 ```
 
-**[Project repository (coming soon!)]** 🔜
+**Technologies:** Ruby on Rails, SQL, JavaScript, OpenAI API, Heroku
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanadias&show_icons=true&theme=dracula)
+![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jou82&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanadias&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jou82&layout=compact&theme=dracula)
 
 ---
 
-## 🌱 **Currently Learning**
+## 🌱 **Currently**
 
-- ✅ **Le Wagon Bootcamp (Brazil)** – AI Software Development (Ruby on Rails, SQL, JavaScript, AI)
-- ✅ **Salesforce Trailhead** – Beginner Admin (in Portuguese)
-- ✅ Developing the **"Escolhe Ai"** project – AI movie recommendation platform
+- 🟢 Building **MEIrelles AI** — social-impact product for Brazil
+- 📚 **Sotheby’s Collections** course — deepening collections practice
+- 🎯 Path ahead: tools for **archiving and cataloguing collections**
+- ☁️ **Salesforce Trailhead** — Beginner Admin (in Portuguese)
 
 ---
 
@@ -176,6 +176,7 @@ My unique journey combines:
 
 ## 📫 **How to Find Me**
 
+- **Website:** [jou82.github.io/profile](https://jou82.github.io/profile/)
 - **LinkedIn:** [linkedin.com/in/joana-dias-57134425](https://www.linkedin.com/in/joana-dias-57134425/)
 - **Email:** joana.jou@gmail.com
 - **Location:** Berlin, Germany (open to relocation)
@@ -185,7 +186,7 @@ My unique journey combines:
 ## ⚡ **Fun Facts About Me**
 
 - 📸 I hold a **Fine Art Photography certificate** from Neue Schule für Fotografie Berlin
-- 🎥 I have a Bachelor's in **Film Studies** – storytelling is my passion! The **Escolhe Ai** project combines my film background with technology 
+- 🎥 I have a Bachelor's in **Film Studies** – storytelling is my passion! **Escolhe Aí** combines film background with technology
 - 🎨 I participated in an **artist residency** in Barcelona exploring the relationship between art and territory
 - 🌍 I've lived in **Germany since 2008** – 18 years of experience in multicultural environments
 - 🇩🇪 Deep knowledge of the European market and German culture
@@ -193,31 +194,6 @@ My unique journey combines:
 
 ---
 
-**✨ "Combining the precision of collection management with the innovation of technology to create intelligent solutions."** ✨
+**✨ Building MEIrelles AI for social impact now — and, ahead, tools for archiving and cataloguing collections.** ✨
 
-### 🛠️ Languages & Tools
-
-#### Front-end
-<p align="left">
-  <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</p>
-
-#### Back-end
-<p align="left">
-  <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</p>
-
-#### Tools & Design
-<p align="left">
-  <img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="OpenAI" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
-</p>
-
-*Last updated: March 2026*
-
+*Last updated: August 2026*
